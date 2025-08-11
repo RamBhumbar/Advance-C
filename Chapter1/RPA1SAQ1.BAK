@@ -1,0 +1,14 @@
+//define constant and array size using macro
+#include<stdio.h>
+#include<conio.h>
+#define max_size 10
+#define array_size 5
+int main()
+{
+printf("maximum size %d",max_size);
+int arr[arry_size];
+clrscr();
+printf("array size %d",size of(arr) size of arr[0]));
+getch();
+return 0;
+}
